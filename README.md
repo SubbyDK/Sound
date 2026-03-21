@@ -13,17 +13,17 @@ No addons, no MPQ editing, and no client modification required.
      **Windows:** C:\Games\TurtleWOW\  
      **Linux/Wine:** ~/.wine/drive_c/Program Files/TurtleWOW/
 3. Place the **Sound/** folder directly inside your Turtle WoW directory so the structure looks like this:
-
-TurtleWOW/
-└── Sound/
-    └── Creature/
-        ├── DuckQuack1.wav
-        ├── DuckQuack2.wav
-        ├── DuckQuack3.wav
-        ├── DuckQuack4.wav
-        ├── DuckQuack5.wav
-        └── DuckQuack6.wav
-
+```
+TurtleWOW/  
+    └── Sound/  
+        └── Creature/  
+            ├── DuckQuack1.wav  
+            ├── DuckQuack2.wav  
+            ├── DuckQuack3.wav  
+            ├── DuckQuack4.wav  
+            ├── DuckQuack5.wav  
+            └── DuckQuack6.wav  
+```
 4. Launch the game — the annoying duck sounds are now muted.
 
 ---
