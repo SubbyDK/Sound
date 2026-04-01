@@ -16,13 +16,14 @@ No addons, no MPQ editing, and no client modification required.
 ```
 TurtleWOW/  
     └── Sound/  
-        └── Creature/  
-            ├── DuckQuack1.wav  
-            ├── DuckQuack2.wav  
-            ├── DuckQuack3.wav  
-            ├── DuckQuack4.wav  
-            ├── DuckQuack5.wav  
-            └── DuckQuack6.wav  
+       └── Creature/
+           └── Duck/  
+                ├── DuckQuack1.wav  
+                ├── DuckQuack2.wav  
+                ├── DuckQuack3.wav  
+                ├── DuckQuack4.wav  
+                ├── DuckQuack5.wav  
+                └── DuckQuack6.wav  
 ```
 4. Launch the game — the annoying duck sounds are now muted.
 
