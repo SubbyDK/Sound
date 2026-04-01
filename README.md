@@ -18,13 +18,7 @@ TurtleWOW/
     └── Sound/  
        └── Creature/
            └── Duck/  
-                ├── DuckLoop.wav
-                ├── DuckQuack1.wav  
-                ├── DuckQuack2.wav  
-                ├── DuckQuack3.wav  
-                ├── DuckQuack4.wav  
-                ├── DuckQuack5.wav  
-                └── DuckQuack6.wav  
+                └── DuckLoop.wav
 ```
 4. Launch the game — the annoying duck sounds are now muted.
 
