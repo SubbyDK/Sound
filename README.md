@@ -14,13 +14,25 @@ No addons, no MPQ editing, and no client modification required.
      **Linux/Wine:** ~/.wine/drive_c/Program Files/TurtleWOW/
 3. Place the **Sound/** folder directly inside your Turtle WoW directory so the structure looks like this:
 ```
-TurtleWOW/  
-    └── Sound/  
-       └── Creature/
-           └── Duck/  
-                └── DuckLoop.wav
+TurtleWOW/
+    └── Sound/
+        ├── Creature/
+        │   └── Duck/
+        │       └── DuckLoop.wav
+        ├── Interface/
+        │   ├── iUiInterfaceButtonA.wav
+        │   ├── uChatScrollButton.wav
+        │   ├── uEscapeScreenClose.wav
+        │   └── uEscapeScreenOpen.wav
+        └── Spells/
+            └── Fizzle/
+                ├── FizzleFireA.wav
+                ├── FizzleFrostA.wav
+                ├── FizzleHolyA.wav
+                ├── FizzleNatureA.wav
+                └── FizzleShadowA.wav
 ```
-4. Launch the game — the annoying duck sounds are now muted.
+4. Launch the game — the annoying sounds are now muted.
 
 ---
 
