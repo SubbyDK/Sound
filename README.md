@@ -1,6 +1,6 @@
-# 🐢 Turtle WoW – Remove Annoying Sounds
+# 🐢 Remove Annoying Sounds
 
-This small project removes specific annoying sounds from **Turtle WoW** by overriding them with empty `.wav` files.  
+This small project removes specific annoying sounds from by overriding them with empty `.wav` files.  
 No addons, no MPQ editing, and no client modification required.
 
 ---
@@ -10,11 +10,11 @@ No addons, no MPQ editing, and no client modification required.
 1. Download or clone this repository.  
 2. Locate your Turtle WoW installation folder.  
    - Examples:  
-     **Windows:** C:\Games\TurtleWOW\  
-     **Linux/Wine:** ~/.wine/drive_c/Program Files/TurtleWOW/
+     **Windows:** C:\Games\WOW\  
+     **Linux/Wine:** ~/.wine/drive_c/Program Files/WOW/
 3. Place the **Sound/** folder directly inside your Turtle WoW directory so the structure looks like this:
 ```
-TurtleWOW/
+WOW/
     └── Sound/
         ├── Creature/
         │   └── Duck/
